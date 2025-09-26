@@ -1,15 +1,17 @@
-# Cisco vs. Aruba Switches Overview Guide
+# Cisco Meraki vs. Aruba Switches Overview Guide
+
+**Description/Overview:** Choosing a networking switch platform is a crucial matter of performance, security, scalability, data flow, general interface connectivity, and overall reliability. This is a matter that organizations hope to get right the first time, as networking implementation impacts both short-term and long-term sustainability and growth (and not always predictably). This guide discusses two particular switching platform lines: Cisco's Meraki and Hewlett Packard Enterprise's (HPE) Arbuba Networks subsidiary. A decision has to be made, should these be the two candidates for organizational switching: should advanced features, security, and a lighter learning curve be prioritized over cost-consciousness and flexible customizations?
 
 #### Table of Contents
 
-1. [Cisco Switches: A Brief Overview](#cisco)
+1. [Cisco Meraki Switches: A Brief Overview](#cisco)
 2. [Aruba Switches: A Brief Overview](#aruba)
 3. [Comparison and Contrast](#compare)
 4. [Supplemental Resources](#supplemental)
 
 <hr />
 
-## 1. <a name="cisco">Cisco Switches: A Brief Overview</a>
+## 1. <a name="cisco">Cisco Meraki Switches: A Brief Overview</a>
 
 (TODO)
 
