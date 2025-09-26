@@ -29,4 +29,6 @@
 
 ## 4. <a name="supplemental">Supplemental Resources</a>
 
-(TODO)
+* *[Cisco Meraki (Official Website)](https://meraki.cisco.com/)*
+* *[HPE Aruba Networking Switches (Official Website)](https://www.hpe.com/us/en/aruba-cx-switches.html)*
+* *[Ubiquiti (Official Website)](https://ui.com/)*
