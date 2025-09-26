@@ -25,7 +25,13 @@
 
 ## 3. <a name="compare">Comparison and Contrast</a>
 
-(TODO)
+Some significant differences between Cisco Meraki and Aruba switches include:
+
+| *Consideration* | *Cisco Meraki* | *Aruba* |
+| :---: | :---: | :----: |
+| Management Model | Entirely cloud-based. | Hybrid model (options for on-premises, cloud-based, and controller-less deployments. |
+| Affordability | Subscription-based licensing (potentially high total cost of ownership). | Not all deployments require subscriptions, and some non-cloud products are less costly. Licensing handled via Aruba Central dashboard. |
+| Configuration | Largely pre-configured for low learning curve and easy usage. Some configurations available via Meraki's dashboard. | Granular configurations and deployments with complex features are more inherently plausible, with a command line interface also readily available. |
 
 <hr />
 
